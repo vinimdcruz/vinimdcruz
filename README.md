@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Vinicius, a passionate coder, always ready to explore and contribute.
+
+Currently, I work at Afya iClinic, and I'm excited about collaborating on open-source projects where we can learn and grow together.
+
+Let's build something amazing!
+
 <!--
 **vinimdcruz/vinimdcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
