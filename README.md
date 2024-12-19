@@ -1,22 +1,7 @@
-## Hi there 👋
+## Welcome 👋
 
-I'm Vinicius, a passionate coder, always ready to explore and contribute.
+I'm Vinicius, a passionate developer, always ready to explore, learn and craft elegant and efficient solutions.
 
-Currently, I work at Afya iClinic, and I'm excited about collaborating on open-source projects where we can learn and grow together.
+💼 Currently, I work at Afya iClinic, developing digital solutions that empower healthcare professionals to optimize their performance and deliver exceptional care to their patients.
 
-Let's build something amazing!
-
-<!--
-**vinimdcruz/vinimdcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I'm enthusiastic about open-source collaboration, where we can learn, grow, and build together.
