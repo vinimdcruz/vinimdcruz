@@ -2,9 +2,9 @@
 
 I'm Vinicius, a lifelong software developer, always ready to explore, learn and craft elegant and efficient solutions.
 
-💼 Currently, I work at Afya iClinic, developing digital solutions that empower healthcare professionals to optimize their performance and deliver exceptional care to their patients.
+💼 Currently seeking my next opportunity, where I’m eager to learn, share knowledge, and deliver impactful results.
 
-🤝 I'm enthusiastic about open-source collaboration, where we can learn, grow, and build together.
+🤝 I’ve just started my first open-source project—a tool called [neogrow](https://github.com/vinimdcruz/neogrow), designed to help parents of neonatal babies track their child's growth and development, and you’re invited to contribute.
 
 <div align="center">
   <a href="https://github.com/vinimdcruz">
